@@ -13,13 +13,13 @@ I'm a Software Engineer,  I'm passionate about sharing knowledge.
 - 💼 Job interests: Software Engineer, Cloud Engineer, UI/UX Designer, or DevOps Engineer (Intern or Junior level).
 - 📫 You can contact me by emailing adeolayomadesamuel@gmail.com.
 
----
+### Connect with me :smiley:
 <a href="https://twitter.com/dev_yomade">
     <img align="left" alt="dev_yomade Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
   </a>
   
   
-  <
+  
   </a><br/><br/>
   <!-- SOCIAL ICONS: END -->
   
