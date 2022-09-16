@@ -14,6 +14,15 @@ I'm a Software Engineer,  I'm passionate about sharing knowledge.
 - 📫 You can contact me by emailing adeolayomadesamuel@gmail.com.
 
 ---
-
+<a href="https://twitter.com/dev_yomade">
+    <img align="left" alt="dev_yomade Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
+  </a>
+  
+  
+  <
+  </a><br/><br/>
+  <!-- SOCIAL ICONS: END -->
+  
+  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=philemonnwanne&show_icons=true&include_all_commits=true&hide_border=true" alt="dev_yomade's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devYomade&langs_count=8&layout=compact&hide_border=true" alt="dev_yomade's GitHub stats" /> 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=devYomade&show_icons=true&include_all_commits=true&hide_border=true" alt="Yomade's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devYomade&langs_count=8&layout=compact&hide_border=true" alt="Yomade's GitHub stats" /> |
 | ------------- | ------------- |
