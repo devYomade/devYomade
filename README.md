@@ -23,6 +23,6 @@ I'm a Software Engineer,  I'm passionate about sharing knowledge.
   </a><br/><br/>
   <!-- SOCIAL ICONS: END -->
   
-  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=philemonnwanne&show_icons=true&include_all_commits=true&hide_border=true" alt="dev_yomade's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devYomade&langs_count=8&layout=compact&hide_border=true" alt="dev_yomade's GitHub stats" /> 
+  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=devYomade&show_icons=true&include_all_commits=true&hide_border=true" alt="dev_yomade's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devYomade&langs_count=8&layout=compact&hide_border=true" alt="dev_yomade's GitHub stats" /> 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=devYomade&show_icons=true&include_all_commits=true&hide_border=true" alt="Yomade's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devYomade&langs_count=8&layout=compact&hide_border=true" alt="Yomade's GitHub stats" /> |
 | ------------- | ------------- |
