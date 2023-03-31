@@ -7,10 +7,10 @@ I'm a Software Engineer,  I'm passionate about sharing knowledge.
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning Cloud, UI/UX design, and DevOps.
+- 💡 Fun fact: I'm a self learning techie.
+- 🌱 I’m currently learning Cloud Computing, and DevOps.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Cloud Engineer, UI/UX Designer, or DevOps Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Cloud Engineer, System Administrator, or DevOps Engineer (Intern or Junior level).
 - 📫 You can contact me by emailing adeolayomadesamuel@gmail.com.
 
 ### Connect with me :smiley:
