@@ -6,12 +6,14 @@ I'm a Software Engineer,  I'm passionate about sharing knowledge.
 
 **Here's a quick summary about me**:
 
-- 😊 Pronouns: He/him
-- 💡 Fun fact: I'm a self learning techie.
-- 🌱 I’m currently learning Cloud Computing, and DevOps.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Cloud Engineer, System Administrator(Intern or Junior level).
-- 📫 You can contact me by emailing adeolayomadesamuel@gmail.com.
+- 🌱 I am a self-taught Cloud Engineer.
+- 🌱 I hold certifications in AWS Cloud Essentials (from Coursera) and Mastering Linux (from aptLearn).
+- 🌱 My expertise lies in AWS services, Iac tools like Terraform, and Automation tools like Ansible, and very conversant with the Linux environment(a hundred percent valid).
+- 🌱 I'm eager to apply IaC principles to real-world projects, thrive in a dynamic environment, and contribute as a confident team player.
+- 😊 I’m looking for help with internships, and entry-level opportunities.
+- 😊 My goal is to gain valuable industry experience and make a meaningful impact.
+
+  
 
 ### Connect with me :smiley:
 <a href="https://twitter.com/dev_yomade">
